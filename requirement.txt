@@ -1,0 +1,4 @@
+tensorflow-gpu==1.14.0
+keras==2.4.3
+python==3.7.10
+
